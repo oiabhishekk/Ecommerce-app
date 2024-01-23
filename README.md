@@ -63,3 +63,4 @@ This is a full-stack eCommerce application built with the MERN stack (MongoDB, E
 5. Open your browser and navigate to [http://localhost:3000](http://localhost:3000).
 
 ## Project Structure
+1:00
